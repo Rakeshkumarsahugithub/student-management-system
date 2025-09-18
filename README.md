@@ -160,7 +160,7 @@ FRONTEND_URL=http://localhost:5173
 
 # MongoDB Configuration
 MONGODB_URI=mongodb://localhost:27017/student-management
-# For MongoDB Atlas: mongodb+srv://username:password@cluster.mongodb.net/student-management
+
 
 # Encryption Keys (Level 1 = Frontend, Level 2 = Backend)
 FRONTEND_ENCRYPTION_KEY=frontend-encryption-key-2024-level1-secure
