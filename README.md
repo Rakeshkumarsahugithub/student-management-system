@@ -131,7 +131,7 @@ task-react-node-typescript/
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/Rakeshkumarsahugithub/student-management-system.git
 cd task-react-node-typescript
 ```
 
